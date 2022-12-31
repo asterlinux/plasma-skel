@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-23-b0e7517a-c699-406c-bcfa-9ce5e9f8ec73]
+ordering=applications:calamares.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:systemsettings.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-23-global]
+ordering=applications:calamares.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:systemsettings.desktop
