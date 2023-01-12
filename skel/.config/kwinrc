@@ -16,11 +16,13 @@ HorizontalGap=40
 BorderActivateAll=9
 
 [ElectricBorders]
-Bottom=ActivityManager
 BottomLeft=ActivityManager
 
+[ModifierOnlyShortcuts]
+Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
+
 [Windows]
-ElectricBorderDelay=100
+ElectricBorderDelay=90
 
 [org.kde.kdecoration2]
 BorderSize=Tiny

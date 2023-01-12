@@ -5,15 +5,9 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=101be1611b01b8000167302411800000006760004
-clientId2=101be1611b01b8000167275499400000006660019
-count=2
-discardCommand2[$e]=rm,-f,$HOME/.cache/sessions/Thunar-101be1611b01b8000167275499400000006660019
+clientId1=101be1611b01b8000167354729300000741250004
+count=1
 program1=/usr/lib/DiscoverNotifier
-program2=Thunar
-restartCommand1=/usr/lib/DiscoverNotifier,-session,101be1611b01b8000167302411800000006760004_1673027801_640788
-restartCommand2=Thunar,--sm-client-id,101be1611b01b8000167275499400000006660019,--daemon
+restartCommand1=/usr/lib/DiscoverNotifier,-session,101be1611b01b8000167354729300000741250004_1673547440_710897
 restartStyleHint1=0
-restartStyleHint2=0
-userId1=sahan
-userId2=sahan
+userId1=test

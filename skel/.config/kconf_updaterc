@@ -1,135 +1,140 @@
 updateInfoAdded=true
 
 [breezehighcontrasttobreezedark.upd]
-ctime=1672587880
+ctime=1673427391
 done=BreezeHighContrastToBreezeDark
-mtime=1669735535
+mtime=1672775694
 
 [breezetobreezeclassic.upd]
-ctime=1672587880
+ctime=1673427391
 done=BreezeToBreezeClassic
-mtime=1669735535
+mtime=1672775694
 
 [breezetobreezelight.upd]
-ctime=1672587880
+ctime=1673427391
 done=BreezeToBreezeLight
-mtime=1669735535
+mtime=1672775694
 
 [delete_cursor_old_default_size.upd]
-ctime=1672587924
+ctime=1673486732
 done=DeleteCursorOldDefaultSize
-mtime=1669745100
+mtime=1673458756
 
 [disable_kmix.upd]
-ctime=1672587950
+ctime=1673427397
 done=PlasmaVolume_DisableKMixAutostart
-mtime=1669737977
+mtime=1672778280
 
 [dolphin_detailsmodesettings.upd]
-ctime=1672654487
+ctime=1673034943
 done=rename-leading-padding
-mtime=1671484968
+mtime=1672739731
 
 [filepicker.upd]
-ctime=1672587874
+ctime=1673428451
 done=filepicker-remove-old-previews-entry
-mtime=1670330716
+mtime=1673220443
 
 [fonts_akregator.upd]
-ctime=1672587920
+ctime=1673427393
 done=Plasma_Fonts_Akregator
-mtime=1669736075
+mtime=1672776231
 
 [fonts_global.upd]
-ctime=1672587920
+ctime=1673427393
 done=Fonts_Global
-mtime=1669736075
+mtime=1672776231
 
 [fonts_global_toolbar.upd]
-ctime=1672587920
+ctime=1673427393
 done=Fonts_Global_Toolbar
-mtime=1669736075
+mtime=1672776231
 
 [fonts_kate.upd]
-ctime=1672587920
+ctime=1673427393
 done=Plasma_Fonts_Kate
-mtime=1669736075
+mtime=1672776231
 
 [gtkconfig.upd]
-ctime=1672587910
+ctime=1673427392
 done=gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_option
-mtime=1669737223
+mtime=1672777323
 
 [gwenview.upd]
-ctime=1672755108
+ctime=1673034977
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
-mtime=1669993865
+mtime=1672876487
 
 [icons_remove_effects.upd]
-ctime=1672587924
+ctime=1673486732
 done=IconsRemoveEffects
-mtime=1669745100
+mtime=1673458756
+
+[katesession_migration.upd]
+ctime=1673093259
+done=migrate_kate_sessions_applet_to_kdeplasma-addons
+mtime=1672749080
 
 [kcm_rename_plasma_desktop.upd]
-ctime=1672587945
+ctime=1673427396
 done=5.24PlasmaDesktopKCMRename
-mtime=1669737580
+mtime=1672777682
 
 [kcminputrc_fix_botched_5_21_0.upd]
-ctime=1672587945
+ctime=1673427396
 done=kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0
-mtime=1669737580
+mtime=1672777682
 
 [kcminputrc_repeat.upd]
-ctime=1672587945
+ctime=1673427396
 done=kcminputrc_migrate_key_repeat
-mtime=1669737580
+mtime=1672777682
 
 [krunnerglobalshortcuts2.upd]
-ctime=1672587924
+ctime=1673486732
 done=5.22KRunnerGlobalShortcuts
-mtime=1669745100
+mtime=1673458756
 
 [krunnerhistory.upd]
-ctime=1672587924
+ctime=1673486732
 done=5.21KRunnerHistory
-mtime=1669745100
+mtime=1673458756
 
 [kscreenlocker.upd]
-ctime=1672587913
+ctime=1673427393
 done=0.1-autolock
-mtime=1669734429
+mtime=1672775560
 
 [ksmserver_update_loginMode_value.upd]
-ctime=1672587945
+ctime=1673427396
 done=ksmserver_update_loginMode_value_default_enum
-mtime=1669737580
+mtime=1672777682
 
 [kwin.upd]
-ctime=1672587920
+ctime=1673427393
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed,desktop-grid-click-behavior,no-swap-encourage,make-translucency-effect-disabled-by-default,remove-flip-switch-effect,remove-cover-switch-effect,remove-cubeslide-effect,remove-xrender-backend,enable-scale-effect-by-default,overview-group-plugin-id,animation-speed-cleanup
-mtime=1669735602
+mtime=1672872055
 
 [kwinrules.upd]
-ctime=1672587920
+ctime=1673427393
 done=replace-placement-string-to-enum,use-virtual-desktop-ids
-mtime=1669735602
+mtime=1672872055
 
 [kxkb.upd]
-ctime=1672587945
+ctime=1673427396
 done=remove-empty-lists,add-back-resetoptions
-mtime=1669737580
+mtime=1672777682
 
 [kxkb_variants.upd]
-ctime=1672587945
+ctime=1673427396
 done=split-variants
-mtime=1669737580
+mtime=1672777682
 
 [style_widgetstyle_default_breeze.upd]
-ctime=1672587924
+ctime=1673486732
 done=StyleWidgetStyleDefaultBreeze
-mtime=1669745100
+mtime=1673458756
 
 [webenginepart.upd]
-ctime=1672928218
-mtime=1669995946
+ctime=1673034986
+mtime=1672745166
