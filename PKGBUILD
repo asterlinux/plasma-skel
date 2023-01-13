@@ -2,7 +2,7 @@
 pkgname=('aster-plasma-skel')
 _destname="/etc"
 pkgver=1
-pkgrel=5
+pkgrel=6
 pkgdesc="Aster Linux Plasma Skel "
 arch=("x86_64")
 url="https://github.com/asterlinux/aster-plasma-skel"
