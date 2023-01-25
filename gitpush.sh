@@ -2,5 +2,8 @@
 
 git add .
 
-git commit -m "aster plasma theme"
-git push
+echo "Enter your commit"
+read input
+
+git commit -m "$input"
+git push -u origin master
