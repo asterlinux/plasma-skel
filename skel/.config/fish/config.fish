@@ -201,4 +201,5 @@ alias mv='mv -i'
 alias rm='rm -i'
 
 # system info programme
+source (/usr/bin/starship init fish --print-full-init | psub)
 pfetch
