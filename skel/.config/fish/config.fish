@@ -199,3 +199,6 @@ alias l.='exa -a | egrep "^\."'
 alias cp="cp -i"
 alias mv='mv -i'
 alias rm='rm -i'
+
+# system info programme
+pfetch
