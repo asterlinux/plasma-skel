@@ -1,8 +1,8 @@
 # Maintainer: Sahan Rasanjana <sahan.user@gmail.com>
 pkgname=('aster-plasma-skel')
 _destname="/etc"
-pkgver=1
-pkgrel=9
+pkgver=2
+pkgrel=1
 pkgdesc="Aster Linux Plasma Skel "
 arch=("x86_64")
 url="https://github.com/asterlinux/aster-plasma-skel"
