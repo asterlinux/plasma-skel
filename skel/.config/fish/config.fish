@@ -80,4 +80,5 @@ alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
 source (/usr/bin/starship init fish --print-full-init | psub)
+echo " "
 pfetch
