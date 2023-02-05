@@ -17,6 +17,7 @@ end
 # # usage: ex -a file.tar.gz
 function ex -a file
     if test -f "$file"
+        echo "extracting $file"
         switch "$file"
             case "*.tar.bz2"
                 tar xjf $file
@@ -58,9 +59,9 @@ set fish_color_param brcyan
 ### ALIASES ###
 
 # Changing "ls" to "exa"
-alias ls='exa --color=always --group-directories-first'
+alias ls='exa -a --color=always --group-directories-first'
 alias la='exa -lah --color=always --octal-permissions --no-permissions --group-directories-first'
-alias l='exa -lh --color=always --group-directories-first'
+alias l='exa -lah --color=always --group-directories-first'
 
 # confirm before overwriting something
 alias cp="cp -i"
@@ -72,6 +73,7 @@ alias cat="bat"
 
 # typo fixes
 alias cd..='cd ..'
+alias cd.='cd ..'
 alias pdw='pwd'
 
 # colored grep out 
@@ -80,5 +82,5 @@ alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
 source (/usr/bin/starship init fish --print-full-init | psub)
-echo " "
-pfetch
+#echo " "
+#pfetch

@@ -263,7 +263,7 @@ Values for `animation`:
 # Specifying a `duration` of `0` will disable the visual bell.
 visual_bell:
   animation: EaseOutExpo
-  duration: 100
+  duration: 10
   color: '#ffffff'
 
 # Background opacity
@@ -308,9 +308,11 @@ live_config_reload: true
 #   - (Linux/BSD) user login shell
 #   - (Windows) powershell
 shell:
-  program: /bin/fish
-#  args:
-#    - --login
+  program: /bin/fish 
+  args:
+    - --login
+    - --init-command
+    - "pfetch"
 
 # Startup directory
 #
