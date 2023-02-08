@@ -1,28 +1,14 @@
-[KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Desktop/images/Asterwhatsapp.png,file:///usr/share/backgrounds/asterlinux/circle.jpg,file:///usr/share/backgrounds/asterlinux/wallpaperflare.com_wallpaper(6).jpg,file:///usr/share/backgrounds/asterlinux/wallpaperflare.com_wallpaper(5).jpg,file:///usr/share/backgrounds/asterlinux/wallpaperflare.com_wallpaper(4).jpg,file:///usr/share/backgrounds/asterlinux/wallpaperflare.com_wallpaper(3).jpg,file:///usr/share/backgrounds/asterlinux/wallpaperflare.com_wallpaper(2).jpg,file:///usr/share/backgrounds/asterlinux/wallpaperflare.com_wallpaper(1).jpg,file:$HOME/Desktop/images/Aster_logo.png,file:$HOME/Desktop/images/Aster.png,file:$HOME/Desktop/images/Asterwhatsappdark.png,file:$HOME/Downloads/wallpaperflare.com_wallpaper.jpg
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Desktop/images/,file:///usr/share/asterlinux/backgrounds/,file:///usr/share/backgrounds/asterlinux/
-detailViewIconSize=16
+[PlasmaTransientsConfig]
+PreloadWeight=0
 
-[PlasmaViews][Panel 2][Defaults]
-thickness=44
+[PlasmaViews][Panel 1][Defaults]
+thickness=39
 
-[PlasmaViews][Panel 2][Horizontal1280]
-thickness=44
-
-[PlasmaViews][Panel 22]
+[PlasmaViews][Panel 23]
 floating=1
 
-[PlasmaViews][Panel 22][Defaults]
-thickness=38
-
-[PlasmaViews][Panel 22][Horizontal1280]
-thickness=38
-
-[PlasmaViews][Panel 53][Defaults]
-thickness=44
-
-[PlasmaViews][Panel 53][Horizontal1280]
-thickness=44
+[PlasmaViews][Panel 23][Defaults]
+thickness=39
 
 [Updates]
-performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js
