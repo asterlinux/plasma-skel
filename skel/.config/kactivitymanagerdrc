@@ -1,0 +1,9 @@
+[activities]
+1742e6e7-92e4-45d9-a3e2-eeb4b56c35aa=Default 1
+7368f8ba-0489-4f2a-a86d-90542e85d1e3=Default 2
+
+[activities-icons]
+7368f8ba-0489-4f2a-a86d-90542e85d1e3=activities
+
+[main]
+currentActivity=1742e6e7-92e4-45d9-a3e2-eeb4b56c35aa

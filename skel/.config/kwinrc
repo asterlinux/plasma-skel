@@ -1,0 +1,13 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize
+
+[Desktops]
+Id_1=ef9ab669-77ed-4d8a-a9f8-2d8049bd67c0
+Number=1
+Rows=1
+
+[Tiling]
+padding=4
+
+[Tiling][0d3998b5-12fb-5e5d-9844-298a9a2f96a3]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
