@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=2.0
+Type=Application
+Terminal=true
+Exec=/usr/share/welcome/autostart
+Name=Welcome
+Icon=asterlinux
+Categories=System;
+Comment=Aster Linux Welcome 
